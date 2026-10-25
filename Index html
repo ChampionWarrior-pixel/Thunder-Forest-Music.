@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thunder Forest Music | Champion Warrior</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#080d09;color:white;font-family:Arial,sans-serif}
+main{max-width:650px;margin:auto;padding:18px}
+header{display:flex;align-items:center;gap:14px;margin-bottom:22px}
+.logo{background:#000;border:1px solid white;border-radius:50%;width:60px;height:60px;display:grid;place-items:center;font-size:23px;font-weight:bold}
+header p{color:#ccc;margin:6px 0}
+.hero{width:100%;height:200px;object-fit:cover;border-radius:22px}
+h1{font-size:24px;margin:0}
+h2{font-size:30px}
+p{line-height:1.6}
+.intro{color:#ddd}
+.heading{background:#176638;text-align:center;padding:17px;border-radius:13px;font-size:21px;font-weight:bold;margin:22px 0}
+.song{background:#151e2e;padding:15px;border-radius:15px;margin-bottom:20px}
+.song h3{margin:0 0 8px}
+audio{width:100%;margin-top:10px}
+.download{display:inline-block;background:#176638;color:white;padding:12px 18px;text-decoration:none;border-radius:9px;margin-top:10px}
+.card{background:#151e2e;padding:18px;border-radius:15px;margin-top:20px}
+footer{text-align:center;color:#ccc;padding:25px 0;font-size:13px}
+</style>
+</head>
+<body>
+<main>
+<header>
+<div class="logo">TF</div>
+<div>
+<h1>THUNDER FOREST</h1>
+<p>OFFICIAL MUSIC WEBSITE</p>
+</div>
+</header>
+
+<img class="hero" src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=1000&q=80" alt="Recording studio">
+
+<h2>CHAMPION WARRIOR</h2>
+<p class="intro">Welcome to the home of Thunder Forest Music! Discover my latest songs, enjoy my sound and join the Legacy Base family.</p>
+
+<div class="heading">♫ LATEST RELEASES</div>
+
+<div class="song">
+<h3>Baby Obayileki</h3>
+<p>Champion Warrior</p>
+<p>Listen to the song and download it below.</p>
+<p><strong>Song player coming next!</strong></p>
+</div>
+
+<div class="card">
+<h2>ABOUT US</h2>
+<p class="intro">Thunder Forest Music is the home of Champion Warrior. We bring you Afrobeat, Dancehall and more. Welcome to the Legacy Base family!</p>
+</div>
+
+<div class="card">
+<h2>MY MUSIC</h2>
+<p class="intro">Discover new releases, play your favourite songs and download music to enjoy offline.</p>
+</div>
+
+<div class="card">
+<h2>CONTACT</h2>
+<p class="intro">For music updates, collaborations and bookings, connect with Champion Warrior on social media.</p>
+</div>
+
+<footer>© 2026 Thunder Forest Music<br>Champion Warrior · Powered by Thunder Forest</footer>
+</main>
+</body>
+</html>
