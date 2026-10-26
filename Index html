@@ -47,8 +47,18 @@ footer{text-align:center;color:#ccc;padding:25px 0;font-size:13px}
 <h3>Baby Obayileki</h3>
 <p>Champion Warrior</p>
 <p>Listen to the song and download it below.</p>
-<p><strong>Song player coming next!</strong></p>
+
 </div>
+<audio controls preload="metadata" style="width:100%;">
+  <source src="Baby%20Obayileki%20-%20Champion%20Warrior%20%28official%20audio%29.mp3" type="audio/mpeg">
+  Your browser does not support audio.
+</audio>
+<p>
+  <a href="Baby%20Obayileki%20-%20Champion%20Warrior%20%28official%20audio%29.mp3" download>
+    Download Baby Obayileki
+  </a>
+</p>
+
 
 <div class="card">
 <h2>ABOUT US</h2>
